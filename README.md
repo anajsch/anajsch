@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 
-- 🔭 git para aulas 
+- 🔭 git para guardar algumas infos
 
